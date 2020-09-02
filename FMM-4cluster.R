@@ -1,4 +1,5 @@
 
+library(readxl)
 library(boot)
 library(coda)
 library(R2WinBUGS)
